@@ -15,6 +15,10 @@ days = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sun
 short_days = [day[:3] for day in days]
 
 # lists of cities and acronym of cities to verify user input
+"""
+This is soft-coded to get the initials of the city.
+Will require update if cities with the same initials are present.
+"""
 cities = list(CITY_DATA.keys())
 short_cities = []
 for city in cities:
