@@ -1,18 +1,21 @@
 ### Date created
-Include the date you created this project and README file.
+2021-01-30
 
 ### Project Title
-Replace the Project Title
+Bikeshare project
 
 ### Description
-Describe what your project is about and what it does
+This project allows user to perform quick data analysis on Bikeshare data from Chicago, New York City, and Washington, that was collected over a period of 6 months.
 
 ### Files used
-Include the files used
+bikeshare.py
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
-20210130 - Added documentation for cities acronym loop
-20210130.2 - Added documentation for cities data dictionary
-20210130.3 - Changed default pause function duration from 5 to 3 seconds
+This repo was cloned from https://github.com/udacity/pdsnd_github
+Useful sites used:
+stackoverflow.com
+docs.python.org
+w3schools.com
