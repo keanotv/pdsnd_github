@@ -35,6 +35,7 @@ def get_filters():
     """
     
     print('Hello! Let\'s explore some US bikeshare data!\nWe will begin by selecting the city, month and/or day of the week of interest')
+    print('Currently, only Chicago, New York City, and Washington are available.')
 
     global city, month, day
     # get user input for city (chicago, new york city, washington). Exits script if user enters 'q' 
