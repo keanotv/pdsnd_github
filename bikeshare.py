@@ -264,7 +264,7 @@ def view_data(df):
                     elif view_display == 'y':
                         break
 
-def pause(duration=5):
+def pause(duration=3):
     """Pauses for a short duration to give user time to read before continuing."""
     print('Proceeding in {} seconds...'.format(duration))
     print('-'*40)
