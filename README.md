@@ -14,3 +14,4 @@ Include the files used
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
 20210130 - Added documentation for cities acronym loop
+20210130.2 - Added documentation for cities dictionary
